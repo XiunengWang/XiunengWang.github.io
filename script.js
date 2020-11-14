@@ -112,6 +112,12 @@ let songList = [
     audio: "BurningDesires.wav",
     songname: "Burning Desires",
     musictype: "Rap Beat"
+  },
+  {
+    thumbnail: "",
+    audio: "onemoreday.mp3",
+    songname: "One More Day",
+    musictype: "Rap Beat"
   }
 ]
 
